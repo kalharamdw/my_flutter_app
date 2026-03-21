@@ -1,9 +1,9 @@
-#  TaskMaster — Flutter App
+  TaskMaster — Flutter App
 https://drive.google.com/drive/folders/1m39EnDzE5LQk-WO9N6tslGlqsLJ8brlm?usp=sharing
 
-A beautiful, fully-featured productivity app built with Flutter + Firebase + Claude AI.
+A beautiful, fully-featured productivity app built with Flutter + Firebase 
 
-## Features
+Features
 -  Login (Email + Google Sign-In)
 -  Firebase (Auth + Firestore cloud sync)
 -  Task Manager (priorities, categories, swipe-to-delete)
@@ -17,7 +17,7 @@ A beautiful, fully-featured productivity app built with Flutter + Firebase + Cla
 
 ---
 
-## Project Structure
+ Project Structure
 
 ```
 lib/
